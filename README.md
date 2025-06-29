@@ -1,4 +1,4 @@
-# Team-GNEC
+# Team-EmpowerFix
 
 # 🚨 EmpowerFix App
 
